@@ -108,6 +108,7 @@
             this.T2_button6.TabIndex = 20;
             this.T2_button6.Text = "Корень";
             this.T2_button6.UseVisualStyleBackColor = true;
+            this.T2_button6.Click += new System.EventHandler(this.T2_button6_Click);
             // 
             // T2_button3
             // 
@@ -117,6 +118,7 @@
             this.T2_button3.TabIndex = 19;
             this.T2_button3.Text = "В степень";
             this.T2_button3.UseVisualStyleBackColor = true;
+            this.T2_button3.Click += new System.EventHandler(this.T2_button3_Click);
             // 
             // Form1
             // 
