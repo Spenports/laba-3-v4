@@ -66,6 +66,7 @@
             this.T2_button4.TabIndex = 15;
             this.T2_button4.Text = "Умножение";
             this.T2_button4.UseVisualStyleBackColor = true;
+            this.T2_button4.Click += new System.EventHandler(this.T2_button4_Click);
             // 
             // T2_button1
             // 
@@ -75,6 +76,7 @@
             this.T2_button1.TabIndex = 14;
             this.T2_button1.Text = "Сложение";
             this.T2_button1.UseVisualStyleBackColor = true;
+            this.T2_button1.Click += new System.EventHandler(this.T2_button1_Click);
             // 
             // T2_button5
             // 
